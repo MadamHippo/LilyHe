@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Lily! (She/her)</h1>
 <h3 align="center">Software Engineer. Digital Content Manager & Writer. Loving Mom & Wife.</h3>
 
-- 🔭 I’m currently working on [eCommerce Art Gallery Store](https://github.com/MadamHippo/MyShop)
+- 🔭 I’m currently working on [**eCommerce Art Gallery Store**](https://github.com/MadamHippo/MyShop)
 
-- 🌱 I’m currently learning **Dynamic Programming, Graphs, and React**
+- 🌱 I’m currently learning **Dynamic Programming & Graphs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MadamHippo?tab=repositories](https://github.com/MadamHippo?tab=repositories)
 
-- 📝 I regularly write articles on [www.merryformoney.com](www.merryformoney.com)
+- 📝 I regularly write articles on my website: [www.merryformoney.com](www.merryformoney.com)
 
-- 📄 Know about my experiences [My resume: https://docs.google.com/document/d/11DzEUmDg7ieG8-mKRikFFKTzEGBbs17aSlQDALUpfEI/edit?usp=sharing](My resume: https://docs.google.com/document/d/11DzEUmDg7ieG8-mKRikFFKTzEGBbs17aSlQDALUpfEI/edit?usp=sharing)
+- 📄 Know about my resume: https://docs.google.com/document/d/11DzEUmDg7ieG8-mKRikFFKTzEGBbs17aSlQDALUpfEI/edit?usp=sharing
 
-- ⚡ Fun fact **I love watching CSS art coding tutorials on Youtube ~for the asthetics~ **
+- ⚡ Fun fact **I love watching CSS art coding tutorials on Youtube, an overlooked form of art 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
