@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lily! (She/her)</h1>
-<h3 align="center">Jr. Software Engineer. Internet Marketer & Content Writer. 100% Dork.</h3>
+<h3 align="center"> Jr. Software Engineer. SEO Specialist. GHC'22 Scholar. ENTP.</h3>
 
 - 🔭 I’m currently working on [**eCommerce Art Gallery Store**](https://github.com/MadamHippo/MyShop)
 
