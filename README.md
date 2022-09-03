@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**eCommerce Art Gallery Store**](https://github.com/MadamHippo/MyShop)
 
-- 🌱 I’m currently learning **Dynamic Programming & Graphs**
+- 🌱 I’m currently learning **Trees & Graphs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MadamHippo?tab=repositories](https://github.com/MadamHippo?tab=repositories)
 
