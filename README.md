@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on my website: [www.merryformoney.com](www.merryformoney.com)
 
-- 📄 Check out my resume: https://docs.google.com/document/d/1vt2WdqHjDK-QWidJk9a3NAbwI5TkZTSW/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true
+- 📄 Check out my resume: [resume](https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love taking on a good challenge, especially when it's hard.**
 
