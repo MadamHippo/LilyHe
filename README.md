@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java + Spring**
 
-- 👨‍💻 All of my projects are available at: click!](https://github.com/MadamHippo?tab=repositories)
+- 👨‍💻 All of my projects are available at: [click!](https://github.com/MadamHippo?tab=repositories)
 
 - 📝 I regularly write articles on my website: [click!](www.merryformoney.com)
 
