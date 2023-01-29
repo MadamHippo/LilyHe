@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [**eCommerce Art Gallery Store**](https://github.com/MadamHippo/MyShop)
 
-- 🌱 I’m currently learning **Java + Spring**
+- 🌱 I’m currently learning **Java + Spring Framework**
 
-- 👨‍💻 All of my projects are available at: [click!](https://github.com/MadamHippo?tab=repositories)
+- 👨‍💻 All of my projects are available at: [here!](https://github.com/MadamHippo?tab=repositories)
 
-- 📝 I regularly write articles on my website: [click!](www.merryformoney.com)
+- 📝 I regularly write articles on my blog/website: [here!](www.merryformoney.com)
 
-- 📄 Check out my resume: [click!](https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true)
+- 📄 Check out my resume: [here!](https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love taking on a good challenge, especially when it's hard.**
+- ⚡ Fun fact **I love taking on a challenge, especially when it's hard. I value close collaboration with my team and I'm fluent in multiple timezones ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
