@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lily! (She/her)</h1>
 <h3 align="center"> Jr. Software Engineer. SEO Digital Marketer. GHC'22 Scholar. ENTP.</h3>
 
-- 🔭 I’m currently working on [**eCommerce Art Gallery Store**](https://github.com/MadamHippo/MyShop)
+- 🔭 I’m currently working on [**My Full-stack Capstone**](https://github.com/MadamHippo/Meal-Nanny-Case-Study)
 
 - 🌱 I’m currently learning **Java + Spring Framework**
 
