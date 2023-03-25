@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [here!](https://github.com/MadamHippo?tab=repositories)
 
-- 📝 I regularly write articles on my blog/website: [here!](www.merryformoney.com)
+- 📝 I regularly write articles on my side hustle website: [here!](www.merryformoney.com)
 
 - 📄 Check out my resume: [here!](https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true)
 
