@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**graduating!**](https://www.linkedin.com/in/xxhe/)
 
-- 🌱 I’m currently learning **Java + Spring Framework**
+- 🌱 I’m currently learning **IBM Z Mainframe**
 
 - 👨‍💻 All of my projects are available at: [here!](https://github.com/MadamHippo?tab=repositories)
 
