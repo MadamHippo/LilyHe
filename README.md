@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on my side hustles: [here!](www.merryformoney.com)
 
-- 📄 Check out my resume: [here!]([https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true](https://docs.google.com/document/d/1T_3uuJsaMwC8AamIAxYLmIoCH1hr_lwe/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true))
+- 📄 Check out my resume: [pending!]([))
 
 - ⚡ Fun fact **I love taking on a challenge, especially when it's hard. I value close collaboration with my team and I'm fluent in multiple timezones ;)**
 
