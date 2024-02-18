@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lily! (She/her)</h1>
 <h3 align="center"> Software Developer. GHC'22 Scholar. ENTP.</h3>
 
-- 🔭 I’m currently working on [**AWS cert.**](https://www.linkedin.com/in/xxhe/)
+- 🔭 I’m currently working on [**my role.**](https://www.linkedin.com/in/xxhe/)
 
 - 🌱 I’m currently learning **AWS!**
 
