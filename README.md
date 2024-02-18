@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [here!](https://github.com/MadamHippo?tab=repositories)
 
-- 📝 I regularly write articles on my side hustles: [here!](www.merryformoney.com)
+- 📝 I regularly contribute to my personal team's project: [here!](www.merryformoney.com)
 
 - 📄 Check out my resume: [pending!]([))
 
