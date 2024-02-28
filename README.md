@@ -11,7 +11,7 @@
 
 - 📄 Check out my resume: [here!](https://docs.google.com/document/d/1vt2WdqHjDK-QWidJk9a3NAbwI5TkZTSW/edit?usp=sharing&ouid=101924632737826117945&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love taking on a challenge, especially when it's hard. I value close collaboration with my team and I'm fluent in multiple timezones ;)**
+- ⚡ Fun fact **I love taking on a challenge, especially when it's hard. I value close collaboration with my team and I'm fluent in multiple timezones :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
